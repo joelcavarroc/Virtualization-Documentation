@@ -109,7 +109,7 @@ If following this guide for creating a Windows service from docker.exe, the foll
 ```powershell
 PS C:\> sc.exe delete Docker
 
-[SC] DeleteService SUCESS
+[SC] DeleteService SUCCESS
 ```
 
 ## Nano Server
